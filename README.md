@@ -1,8 +1,8 @@
 # Rent-A-Car RESTful API
 This project is a RESTful API developed for managing car rental operations. The project is structured using layered architecture and the request-response pattern. The goal of this project is to provide a reliable and scalable solution for managing car rental processes.
 
-Project Architecture
-Layered Architecture
+#Project Architecture
+##Layered Architecture
 The project is structured according to the principles of layered architecture. This allows the application to organize its different responsibilities into separate layers. The project consists of four main layers:
 
 Controller Layer:
